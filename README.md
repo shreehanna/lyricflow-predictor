@@ -16,5 +16,27 @@ A next-word prediction bot trained on the iconic *Good Luck, Babe!* lyrics by Ch
 git clone https://github.com/shreehanna/lyricflow-predictor.git
 cd lyricflow-predictor
 
+# Run it
+python main.py
 
-![Uploading Screenshot 1947-04-25 at 11.08.41 PM.png…]()
+🧠 Sample Usage
+
+you: it's fine
+🔥 Prediction: ["it's", "cool", "you"]
+
+you: i don't
+🔥 Prediction: ["wanna", "call", "it"]
+
+📁 Files
+main.py – The magic prediction logic
+Good Luck, Babe!.txt – Raw lyrics dataset
+.gitignore – Keeps PyCharm + .venv clutter out
+README.md – This vibe doc
+
+📌 Project Goals
+🎓 Add to my USC Transfer + Apple AIML Internship Portfolio
+🧠 Explore N-gram modeling + NLP basics
+🚀 First step toward building FashionGPT + HoloPlug
+
+👩‍💻 Built by
+@shreehanna
