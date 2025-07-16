@@ -18,5 +18,4 @@ cd lyricflow-predictor
 
 # Run it
 python main.py
-#output
 <img width="1600" height="324" alt="Screenshot 1947-04-25 at 11 06 27 PM" src="https://github.com/user-attachments/assets/dcbc5465-4f27-4472-9e00-caaf57b3d800" />
