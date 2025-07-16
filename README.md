@@ -16,6 +16,5 @@ A next-word prediction bot trained on the iconic *Good Luck, Babe!* lyrics by Ch
 git clone https://github.com/shreehanna/lyricflow-predictor.git
 cd lyricflow-predictor
 
-# Run it
-python main.py
-<img width="1600" height="324" alt="Screenshot 1947-04-25 at 11 06 27 PM" src="https://github.com/user-attachments/assets/dcbc5465-4f27-4472-9e00-caaf57b3d800" />
+
+![Uploading Screenshot 1947-04-25 at 11.08.41 PM.png…]()
